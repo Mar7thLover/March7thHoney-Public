@@ -4,13 +4,11 @@
 
 *"少女如春风般的吹息，挠得你耳尖与心尖一样痒痒。"*
 
-[简体中文](README.md) · [English](docs/README_EN.md) · [繁體中文](docs/README_CHT.md) · [Discord](https://discord.gg/castoriceps)
+[简体中文](README.md) · [English](docs/README_EN.md) · [繁體中文](docs/README_CHT.md) · [Discord](https://discord.gg/CyreneEchoes)
 
 ![Status](https://img.shields.io/badge/游戏服务端-运行中-4caf96?style=flat-square)
 ![Battle](https://img.shields.io/badge/战斗-已支持-5b8af0?style=flat-square)
 ![Gacha](https://img.shields.io/badge/抽卡-完整流程-f0a050?style=flat-square)
-![Quests](https://img.shields.io/badge/任务-主线%20%2B%20支线-a06ad4?style=flat-square)
-
 </div>
 
 ---
