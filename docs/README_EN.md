@@ -4,12 +4,7 @@
 
 *"A spring-breeze whisper from March 7th, somehow scratching both your ears and your soul."*
 
-[简体中文](../README.md) · [English](README_EN.md) · [繁體中文](README_CHT.md)
-
-![Status](https://img.shields.io/badge/Game%20Server-Active-4caf96?style=flat-square)
-![Battle](https://img.shields.io/badge/Battle-Supported-5b8af0?style=flat-square)
-![Gacha](https://img.shields.io/badge/Gacha-Full%20Flow-f0a050?style=flat-square)
-![Quests](https://img.shields.io/badge/Quests-Main%20%2B%20Side-a06ad4?style=flat-square)
+[简体中文](../README.md) · [English](README_EN.md) · [繁體中文](README_CHT.md) · [Discord](https://discord.gg/CyreneEchoes)
 
 </div>
 
@@ -36,18 +31,20 @@
 
 | System | Status | Notes |
 |---|---|---|
-| 🛒 Shop | ✅ Done | Browse and purchase flow works |
-| 👥 Team Formation | ✅ Done | Lineup, slot switching, team changes |
-| 🌀 Warp / Gacha | ✅ Done | Full pull flow and result display |
-| ⚔️ Battle Flow | ✅ Done | Enter battle, complete core combat loop |
-| 🗺️ Open World | ✅ Done | Scene loading, interaction, exploration |
-| 📈 Character Progression | ✅ Done | Leveling and promotion core loops |
-| 📜 Quests | ✅ Done | Main and common quest progression |
-| 🤝 Friend System | ✅ Done | Core friend interaction and display |
-| ⚡ Anomaly Arbitration | ✅ Done | Entry unlock, stage challenge, rewards |
-| 🏆 Challenge Modes | ✅ Done | Forgotten Hall · Pure Fiction · Apocalyptic Shadow |
-| 💰 Currency War | 🔧 Partial | Basic gameplay flow implemented |
-| 🏅 Achievements | ✅ Done | Most achievements trackable and completable |
+| Shop | Done | Browse and purchase flow works |
+| Team Formation | Done | Lineup, slot switching, team changes |
+| Warp / Gacha | Done | Full pull flow and result display |
+| Battle Flow | Done | Enter battle, complete core combat loop |
+| Open World | Done | Scene loading, interaction, exploration |
+| Character Progression | Done | Leveling and promotion core loops |
+| Quests | In Development | Main and common quest progression |
+| Friend System | Done | Core friend interaction and display |
+| Anomaly Arbitration | Done | Entry unlock, stage challenge, rewards |
+| Challenge Modes | Done | Forgotten Hall · Pure Fiction · Apocalyptic Shadow |
+| Currency War | Partial | Basic gameplay flow implemented |
+| Achievements | Done | Most achievements trackable and completable |
+
+Detailed progress: [EN](GameplayImplementationTree.md) | [简中](GameplayImplementationTree_zh-CN.md) | [繁中](GameplayImplementationTree_zh-TW.md) | [JP](GameplayImplementationTree_ja-JP.md)
 
 ---
 
